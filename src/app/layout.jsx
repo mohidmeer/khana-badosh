@@ -15,7 +15,7 @@ export const metadata = {
   title: "Khanna Badoosh",
   description: "Khanna Badoosh offers exclusive travel packages to breathtaking destinations, combining adventure, comfort, and cultural exploration. Discover handpicked experiences, seamless bookings, and unforgettable journeys—all in one place.",
   icons: {
-    icon: 'favicon.ico',
+    icon: '/favicon.ico',
     shortcut: '/favicon.ico',
     apple: '/logo.svg',
   },
