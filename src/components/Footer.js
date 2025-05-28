@@ -30,13 +30,13 @@ const Footer = () => {
           <h4 className="text-lg font-medium mb-3">Contact</h4>
           <ul className="space-y-3 text-sm">
             <li className="flex items-center gap-2">
-              <MapPin size={16} /> Lahore, Pakistan
+              <MapPin size={16} /> Office 609, Apollo Tower E11/4, Islamabad
             </li>
             <li className="flex items-center gap-2">
-              <Phone size={16} /> +92 300 0000000
+              <Phone size={16} /> +923411411991
             </li>
             <li className="flex items-center gap-2">
-              <Mail size={16} /> info@khannabadoosh.com
+              <Mail size={16} /> info@khanabadoosh.com
             </li>
           </ul>
         </div>

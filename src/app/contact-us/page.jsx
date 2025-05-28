@@ -25,17 +25,17 @@ const Page = () => {
                     <div className="max-w-5xl mx-auto grid gap-8 ">
                         <div className="space-y-2">
                             <h3 className="text-lg font-semibold">📍 Address</h3>
-                            <p className="text-muted-foreground">123 Tour Lane, Travel City Islamabad,<br />Pakistan 45678</p>
+                            <p className="text-muted-foreground">Office 609, Apollo Tower E11/4, Islamabad,<br />Pakistan 45678</p>
                         </div>
                         <div className="space-y-2">
                             <h3 className="text-lg font-semibold">📞 Phone</h3>
                             <p className="text-muted-foreground">+92 09078601</p>
-                            <p className="text-muted-foreground">+92 333 7654321</p>
+                            <p className="text-muted-foreground">+92 09078601</p>
                         </div>
                         <div className="space-y-2">
                             <h3 className="text-lg font-semibold">📧 Email</h3>
-                            <p className="text-muted-foreground">info@kahnnabadosh.com</p>
-                            <p className="text-muted-foreground">support@kahnnabadosh.com</p>
+                            <p className="text-muted-foreground">info@kahnabadosh.com</p>
+                            <p className="text-muted-foreground">support@kahnabadosh.com</p>
                         </div>
                     </div>
                 </section>
