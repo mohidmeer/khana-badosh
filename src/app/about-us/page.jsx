@@ -11,7 +11,7 @@ const page = () => {
         <div className="text-center space-y-4">
           <h2 className="">Who We Are</h2>
           <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-            We’re a passionate team of explorers, storytellers, and travel experts dedicated to crafting unforgettable tour experiences around the world. Whether it's hidden gems in Northern Pakistan or global city escapes, we help you discover the magic of travel.
+            We&lsquo;re a passionate team of explorers, storytellers, and travel experts dedicated to crafting unforgettable tour experiences around the world. Whether it&lsquo;s hidden gems in Northern Pakistan or global city escapes, we help you discover the magic of travel.
           </p>
         </div>
 
@@ -33,7 +33,7 @@ const page = () => {
           <div>
             <h4 className=" font-medium mb-4">Our Promise</h4>
             <p className="text-muted-foreground text-lg">
-              We’re here to make your travel dreams come true with exceptional service, expert planning, and unforgettable adventures. Whether you're seeking peaceful nature retreats or vibrant city escapades, we've got a plan just for you.
+              We&lsquo;re here to make your travel dreams come true with exceptional service, expert planning, and unforgettable adventures. Whether you&lsquo;re seeking peaceful nature retreats or vibrant city escapades, we&lsquo;ve got a plan just for you.
             </p>
           </div>
           <img
