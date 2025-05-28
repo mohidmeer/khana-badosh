@@ -52,7 +52,7 @@ const Footer = () => {
 
       </div>
       <div className="text-center text-sm mt-10 border-t border-white/20 pt-6">
-        © {new Date().getFullYear()} Khanna Badoosh. All rights reserved by sigma boy .
+        © {new Date().getFullYear()} Khanna Badoosh. All rights reserved.
       </div>
     </footer>
   );
