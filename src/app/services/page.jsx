@@ -3,6 +3,13 @@ import Image from 'next/image';
 import React from 'react'
 
 
+export const metadata = {
+    title: 'Our Services | Khana Badosh',
+    description: 'Explore the wide range of travel services offered by Khana Badosh including guided tours, international trips, and custom packages.',
+    keywords: ['Khana Badosh services', 'Travel packages', 'Guided tours', 'Custom travel solutions'],
+  };
+
+
 
 const tourPackages = [
     {

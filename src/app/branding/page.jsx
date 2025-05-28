@@ -1,6 +1,11 @@
 import Logo from '@/components/Logo'
-import NavBar from '@/components/shared/NavBar'
-import React from 'react'
+
+
+export const metadata = {
+    title: 'Branding | Khana Badosh',
+    description: 'Access official Khana Badosh brand assets including logos, color palettes, and usage guidelines for media and partners.',
+    keywords: ['Khana Badosh branding', 'Download logo', 'Brand guidelines', 'Media assets'],
+  };
 
 const page = () => {
     return (

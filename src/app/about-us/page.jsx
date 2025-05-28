@@ -1,5 +1,12 @@
 import React from 'react'
 
+
+export const metadata = {
+  title: 'About Us | Khana Badosh',
+  description: 'Discover the story behind Khana Badosh, our passion for travel, and the team dedicated to creating memorable adventures.',
+  keywords: ['About Khana Badosh', 'Travel company', 'Our story', 'Tour team'],
+};
+
 const page = () => {
     return (
         <div>
