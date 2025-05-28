@@ -14,6 +14,11 @@ const poppins = Poppins({ subsets: ["latin"], weight: ['100', '200', '300', '400
 export const metadata = {
   title: "Khanna Badoosh",
   description: "Khanna Badoosh offers exclusive travel packages to breathtaking destinations, combining adventure, comfort, and cultural exploration. Discover handpicked experiences, seamless bookings, and unforgettable journeys—all in one place.",
+  icons: {
+    icon: 'favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/logo.svg',
+  },
 };
 
 export default function RootLayout({ children }) {
