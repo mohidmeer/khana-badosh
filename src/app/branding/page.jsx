@@ -22,7 +22,7 @@ const page = () => {
                 <div className='flex flex-col gap-2'>
                     <h2 className="">Why Green?</h2>
                     <p className='text-lg'>
-                        Green is universally associated with nature, tranquility, and renewal — making it an ideal color for a travel brand focused on scenic adventures and peaceful getaways. It evokes trust, calmness, and balance, which are feelings we want every traveler to experience with us. Beside this mumbo jumbo it was vibing at the time fr fr
+                        Green is universally associated with nature, tranquility, and renewal — making it an ideal color for a travel brand focused on scenic adventures and peaceful getaways. It evokes trust, calmness, and balance, which are feelings we want every traveler to experience with us.
                     </p>
                 </div>
 
